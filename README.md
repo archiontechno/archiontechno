@@ -24,6 +24,8 @@
 >
 > Amateur and Master
 
+~[Skill](https://skillicons.dev/icons?i=python,cpp,html,css)
+
 - **Python** *(Basic)*
 - **HTML/CSS** *(Newbie)*
 - **C++** *(Amateur)*
