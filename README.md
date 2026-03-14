@@ -12,7 +12,7 @@
 
 ## Platform I use
 - **Discord**: realarchion
-- **YouTube**: archiontechno
+- **YouTube**: realarchion
 - **Scratch** *(inactive)*: archiontechno
 
 ## Language Experiment
